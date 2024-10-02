@@ -12,32 +12,37 @@ You may not use my assets in other projects (paid or unpaid) without permission.
 
 You are free to clone this repository for personal or educational use.
  
- You may also use individual assets for these uses in addition.
+You may also use individual assets for these uses in addition.
 
 Any external assets I have used will be listed with proper attribution.
 
 ---
 
 Tools and sites I have, will, or am using to develop this project:
-Unreal Engine 5.4.x
 
-Blender 4.x
+* Unreal Engine 5.4.x
 
-FL Studio Trial ver.
+* Blender 4.x
 
-Audacity
+* FL Studio Trial ver.
 
-freesound.org
+* Audacity
 
-CLIP STUDIO PAINT Ver.2
+* freesound.org
+
+* CLIP STUDIO PAINT Ver.2
 
 ---
 
-This is King of Couriers, a Hotline Miami and Neon White inspired speedrunning game that features low-poly/PSX/256fes Animal Crossing-esque designs.
+	King of Couriers: a Hotline Miami and Neon White inspired game with low-poly/PSX/256fes Animal Crossing-esque designs.
 
-Your task is to deliver mail while defeating enemies to maximize your score. Mail can be used to defeat enemies at the cost of losing it, but enemies can be kill-comboed for more points
+	Your task is to deliver mail while defeating enemies to maximize your score.
+	
+	Mail can be used to defeat enemies at the cost of losing it, but enemies can be kill-comboed for more points
 
-than simply delivering mail. Each level is a bite-sized puzzle, essentially, and you must find the perfect route between delivering and killing to maximize your score and time.
+	than simply delivering mail. 
+	
+	Each level is a short puzzle to find the perfect route to deliver mail and kill enemies to perfect your score and time.
 
 ---
 
