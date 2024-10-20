@@ -1,4 +1,4 @@
-This is my capstone project for Neumont College as a part of my Bachelor of Game and Software Development degree.
+This is my capstone project for Neumont College as a part of my Bachelor of Science in Game and Software Development degree.
 
 This project is meant to test all skills I have learned during my stay at this college.
 
